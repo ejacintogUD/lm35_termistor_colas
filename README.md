@@ -1,0 +1,1 @@
+# lm35_termistor_colas
